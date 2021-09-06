@@ -23,4 +23,11 @@ I've added 5 attributes for each products
 4. Purchase for Customers
 5. Generate Invoice for Customers
 
+## Invoice Sample
+![Invoice](https://github.com/VikramVijayaraj/ETG-Inventory-Management-System-Assignment/blob/main/Invoice.png?raw=true)
 
+# About Author
+I'm Vikram Vijayaraj pursing Bachelors degree in Information Technology from Panimalar Engineering College, Chennai.
+
+# Contact Info
+LinkedIn: https://www.linkedin.com/in/vikram-vijayaraj-3b821a150/
